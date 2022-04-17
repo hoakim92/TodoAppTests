@@ -1,5 +1,6 @@
 TODO APP TESTS
 HOW TO RUN
+
 0) run TODO app
    docker run -p 8080:4242 todo-app ./app -e VERBOSE=1
 1) run tests
